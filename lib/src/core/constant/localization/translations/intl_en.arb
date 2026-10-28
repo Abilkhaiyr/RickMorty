@@ -1,0 +1,52 @@
+{
+  "@@locale": "en",
+  "appName": "Rick and Morty",
+  "searchCharacters": "Search characters",
+  "characterDetails": "Character details",
+  "noCharactersFound": "No characters found",
+  "retry": "Retry",
+  "status": "Status",
+  "species": "Species",
+  "origin": "Origin",
+  "currentLocation": "Current location",
+  "explorerTitle": "Explore the multiverse",
+  "explorerSubtitle": "Discover every character across dimensions",
+  "searchTitle": "Find a character",
+  "searchSubtitle": "Search across infinite dimensions",
+  "searchHint": "Search characters...",
+  "charactersLabel": "CHARACTERS",
+  "discoveredCount": "{count} discovered",
+  "resultsFor": "RESULTS FOR “{query}”",
+  "showingMatches": "Showing matches",
+  "clearSearch": "Clear search",
+  "emptySearchHint": "Try another name or clear your search",
+  "networkErrorTitle": "Lost in another dimension",
+  "networkErrorHint": "Unable to load characters. Check your\nconnection and try again.",
+  "tryAgain": "Try again ↻",
+  "loadingCharacters": "Loading characters",
+  "loadingMoreCharacters": "Loading more characters...",
+  "paginationErrorTitle": "Couldn’t load more characters",
+  "previousResultsSafe": "Your previous results are safe",
+  "retryLoading": "↻  Retry loading",
+  "charactersTab": "Characters",
+  "exploreTab": "Explore",
+  "exploreUnavailable": "Explore, coming soon",
+  "characterProfile": "CHARACTER PROFILE",
+  "identityLabel": "IDENTITY",
+  "detailErrorTitle": "Character unavailable",
+  "detailErrorHint": "Unable to load this character.\nCheck your connection and try again.",
+  "@discoveredCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@resultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  }
+}
